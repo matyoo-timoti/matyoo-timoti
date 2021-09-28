@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matyoo-timoti
-- 👀 I’m interested in comics, specifically manga, anime, movies.  
+- 👀 I like reading manga, watching anime and movies.  
 - 🌱 I’m currently learning Java and I still have a long way to go.
 
 <!---
