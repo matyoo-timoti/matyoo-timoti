@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matyoo-timoti
 - 👀 I like reading manga, watching anime and movies.  
-- 🌱 I’m currently learning Java and I still have a long way to go.
+- 🌱 I’m currently learning Java.
 
 <!---
 matyoo-timoti/matyoo-timoti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
